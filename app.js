@@ -17,7 +17,7 @@ const trimLine = (line) => {
 const modifyArr = (arr) => {
   let temp = []
   for (let i of arr) {
-    temp.push(i + '\n')
+    temp.push(i)
   }
   return temp
 }
@@ -42,10 +42,12 @@ const processLineByLine = async (filePath) => {
   }
 }
 
+const transformArrayToTxt = (arrData) => arrData.join('\r\n')
+
 const removeDuplicateAndWrite = async (fileName) => {
   const dataFile = await processLineByLine(fileName)
   const resultFileName = `R-${fileName}`
-  writeFileSync(__dirname + '/SUCCESS_KEY/' + resultFileName, dataFile, {
+  writeFileSync(__dirname + '/SUCCESS_KEY/' + resultFileName, transformArrayToTxt(dataFile), {
     flag: 'w+',
     encoding: 'utf-8',
   })
