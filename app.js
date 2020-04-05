@@ -1,5 +1,5 @@
 const { once } = require('events')
-const { createReadStream, writeFileSync, readdirSync } = require('fs')
+const { createReadStream, createWriteStream, writeFileSync, readdirSync } = require('fs')
 const { createInterface } = require('readline')
 
 /**
@@ -29,7 +29,6 @@ const processLineByLine = async (filePath) => {
       input: createReadStream('SOURCES_KEY/' + filePath),
       crlfDelay: 5000,
     })
-
     await rl.on('line', (line) => {
       line = trimLine(line)
       if (!uniqueValue.has(line)) {
@@ -37,7 +36,6 @@ const processLineByLine = async (filePath) => {
       }
     })
     await once(rl, 'close')
-
     return modifyArr(Array.from(uniqueValue))
   } catch (err) {
     console.error(err)
@@ -47,7 +45,10 @@ const processLineByLine = async (filePath) => {
 const removeDuplicateAndWrite = async (fileName) => {
   const dataFile = await processLineByLine(fileName)
   const resultFileName = `R-${fileName}`
-  writeFileSync(__dirname + '/SUCCESS_KEY/' + resultFileName, dataFile, { flag: 'w+', encoding: 'utf-8' })
+  writeFileSync(__dirname + '/SUCCESS_KEY/' + resultFileName, dataFile, {
+    flag: 'w+',
+    encoding: 'utf-8',
+  })
 }
 
 const getKeyName = (dirPath = __dirname + '/SOURCES_KEY') => {
