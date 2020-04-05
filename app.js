@@ -2,6 +2,18 @@ const { once } = require('events')
 const { createReadStream, writeFileSync, readdirSync } = require('fs')
 const { createInterface } = require('readline')
 
+/**
+ *
+ * @param {String} line
+ */
+const trimLine = (line) => {
+  if (line === '') return
+  let lineTrim = line.split('|')
+  lineTrim[0] = lineTrim[0].trimRight()
+  lineTrim[1] = lineTrim[1].trimLeft()
+  return lineTrim.join(' | ')
+}
+
 const modifyArr = (arr) => {
   let temp = []
   for (let i of arr) {
@@ -19,6 +31,7 @@ const processLineByLine = async (filePath) => {
     })
 
     await rl.on('line', (line) => {
+      line = trimLine(line)
       if (!uniqueValue.has(line)) {
         uniqueValue.add(line)
       }

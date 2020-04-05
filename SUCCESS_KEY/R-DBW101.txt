@@ -584,7 +584,7 @@
 ,#Q25 Which of the following is not a reason for creating a data mart | Provide data in a form that matches the whole view of the data by many business application areas
 ,#Q23 Which one is not an alternative strategy for developing an OODBMS | Extending a relational DBMS with object-oriented capabilities
 ,# Which statement is correct regards to the ordering of read/writes in the serializability of the transactions? | If on transaction writes a data item and another reads or writes same data item, order of execution is important
-,# Which one is not a step in conceptual database design phase  | Check model to add controlled redundancy 
+,# Which one is not a step in conceptual database design phase | Check model to add controlled redundancy 
 ,# Which one is a main databae design phase | Physical design 
 ,# All of the followings are type of attribute, excepts | single attribute
 ,# Suppose Staff entity has generalization/specialization relationship with three entities Manager, SalePersonnel and Secretary. The constraints on this generalization/specialization relationship is should be derived from this ERD, choose the most correct answer | 3
@@ -612,8 +612,8 @@
 ,# Which one should not use when choosing an index | Add secondary index to an attribute if the query will retrieve a significant propotion of the relation
 ,# Choose the incorrect statement | A relation that contains one or more repeating groups is in 1NF
 ,# Which one is not basic concept of the Entity Relationship(ER) model | Relationship type 
-,# Which one is not an additional sementic modeling concept in Enhanced Entity-Relationship (EER) model| application
-,# Which of the following is one phase in Cross Industry Standard Process for Data Mining (CRISP-DM) Model| Evaluation
+,# Which one is not an additional sementic modeling concept in Enhanced Entity-Relationship (EER) model | application
+,# Which of the following is one phase in Cross Industry Standard Process for Data Mining (CRISP-DM) Model | Evaluation
 ,# Which one is not collection type in SQL 2003 | Multiarray
 ,# Choose the correct statement | A relation in which the intersection of each row and column contains one and only one value is in 1NF
 ,# Which one is not a transformation rule for relation algebra operations to constrcut the query tree when doing query processing | commutavity of union and set difference
@@ -810,7 +810,7 @@
 ,# What is not main problem of data warehouse? | Data heterogenization
 ,# Which one is not a type of transaction in IBM's Distributed Relational Database Architecture (DRDA)? | Remote all of work
 ,# _________ reveals business trends | data warehouse
-,# ACCESSIBLE characteristic of strategic information means |  Easily accessible with intuitive access paths, and responsive for analysis
+,# ACCESSIBLE characteristic of strategic information means | Easily accessible with intuitive access paths, and responsive for analysis
 ,# In a fact table, there are 3 kinds of attributes | All the others
 ,# ________ means populating all the data warehouse table for the very first time | initial load
 ,# The data warehouse is an informational environment that | Provides an integrated and total view of the enterprise
@@ -820,7 +820,7 @@
 ,# Entity-Relationship modeling is suitable for | OLTP systems
 ,# The operational system is an information system that | support the basic business process of the company
 ,# In which case, indexes can improve the performance | C. Read data 
-,# Which dimension does a data warehouse usually have |  C. Time
+,# Which dimension does a data warehouse usually have | C. Time
 ,# The diagram illustrates__________ model | D. MOLAP
 ,# In an operational system, data is usually kept at the lowest level of detail | A. True
 ,# Which statement(s) is(are) correct maintaining metadata in a modern data warehouse is just for documentation Metadata is needed by IT for data warehouse administration | B. Only statement 2
@@ -829,9 +829,9 @@
 ,# ________ indicator of high-quality data ensures the form and content of a data field is the same across multiple source systems | B. Consistency
 ,# In data quality, which is (are) the sources of data pollution? | C. All the others
 ,# MOLAP refers to ________ OLAP | A. Multidimensional
-,# Building a data warehouse is very different from building an operational system  | A. True
-,# Which is NOT a key issue while planning for your data warehouse |  D. Requirment changes
-,# In any analytical system, time is a critical dimension| A. TRue
+,# Building a data warehouse is very different from building an operational system | A. True
+,# Which is NOT a key issue while planning for your data warehouse | D. Requirment changes
+,# In any analytical system, time is a critical dimension | A. TRue
 ,# __________ acts as the glue that connects all parts of the data warehouse | C. metadata
 ,# Data granularity in a data warehouse refers to the level of detail | B. True
 ,# What are the three major areas in the data warehouse | B. Data acquisition, data storage, information delivery
@@ -839,8 +839,8 @@
 ,# See picture | D. sales
 ,# The online transaction processing applications support the day-to-day operations of an enterprise | A. False
 ,# OLAP systems privide ______ and roll-up capabilities | B. drill-down
-,# Bitmapped indexes are ideally suitable for _______ data |  B. low-cardinality
-,# In the data warehouse architecture, _________ sits on top of all the other components. It coordinates the services and activities |  B. Management and control component
+,# Bitmapped indexes are ideally suitable for _______ data | B. low-cardinality
+,# In the data warehouse architecture, _________ sits on top of all the other components. It coordinates the services and activities | B. Management and control component
 ,# Which statement(s) is (are) related to dimensional modeling? | D. All the others
 ,# Fact tables generally occupy the most of the storage capacity | A. True
 ,# The _______ diagrams crystallize the information requirements for the data warehouse | A. information package
@@ -850,7 +850,7 @@
 ,# In ETL, _______ tables are loaded first | d. dimention
 ,# Data integrity characteristic of strategic information means | A. Information must be accurate and must conform to business rules
 ,# The _______ model contains the structures and relationships represented in the data schema coded with data definition language (DDL) of the DBMS | B. Physical 
-,# Which are Not the desired characteristics of strategic information |  A. none of the others
+,# Which are Not the desired characteristics of strategic information | A. none of the others
 ,# The diagram is ________ model | D.logical
 ,# Which is(are) related to the time -variant nature of the data in a data warehouse | C. All the others
 ,# Operational systems are online transaction processing (OLTP) systems | A. True
@@ -859,9 +859,9 @@
 ,# Which is(are) the common transformation type(s) | D. All the others
 ,# ________ table contains the values we want to analyze | A. dimension
 ,# ETL stands for _________ | C. data extraction, transformation, and loading
-,
+,undefined
 ,# Quality is: | The degree to which the project meets requirements 
-,# All the following are examples of Perform Quality Control EXCEPT: |  Cost of quality
+,# All the following are examples of Perform Quality Control EXCEPT: | Cost of quality
 ,# Pareto charts help the project manager: | Focus on the most critical issues to improve quality
 ,# A control chart helps the project manager: | Determine if a process is functioning within set limits
 ,# Testing the entire population would: | Take too long
@@ -870,18 +870,18 @@
 ,# What percentage of the total distribution is 3 sigma from the mean equal to? | 99.73%
 ,# All of the following result from quality audits EXCEPT | Creation of quality metrics
 ,# A control chart shows seven data points in a row on one side of the mean. What should be done? | Find an assignable cause
-,# 2.	____focus is on how managers view the business  | Data warehouse
+,# 2.	____focus is on how managers view the business | Data warehouse
 ,# 4.	Who need strategic information in enterprise | managers
 ,# 5.	In table, there is only one | - index clustered 
-,# 7.	The term metadata refers to  | data about data
+,# 7.	The term metadata refers to | data about data
 ,# 8.	The presence of ____ diagram in the requirement�.between operation and DW system | information package
 ,# 9.	__ indicator of high-quality data ensures that there are no missing values for given attribute in the system | completeness
-,# __ right value for that occurrence of the data element  | accuracy
-,# 11.	__ represents the level of detail in the factable  | data granularity
+,# __ right value for that occurrence of the data element | accuracy
+,# 11.	__ represents the level of detail in the factable | data granularity
 ,# 12.	Button-approach, data mart are created first to provide analytical and reporting capabilities for specific business subject base on dimension | true
-,# 13.	System focus on individual events  | OLTP
+,# 13.	System focus on individual events | OLTP
 ,# 14.	System capture detail of events or transactions | OLTP
-,# 15.	Source data in DW many come from  | External data, production data, internal data, archived data
+,# 15.	Source data in DW many come from | External data, production data, internal data, archived data
 ,# 17.	DW project life cycle | project plan, requirement definition ,.., ..,
 ,# The term DSS refer to __________ | Decision Support System
 ,# Partition elimination is used in ___________. | Range Partitioning
@@ -940,30 +940,30 @@
 ,# _______ is an application of information and data. | Knowledge
 ,# In _________ system, the contents change with time. | OLTP2. 
 ,# ________ gives total view of an organization. | Data Warehouse
-,# ____focus is on how managers view the business  | Data warehouse
+,# ____focus is on how managers view the business | Data warehouse
 ,# OLAP | online analytical processing
 ,# Who need strategic information in enterprise | managers
-,# In table, there is only one___  | index clustered 
-,# The term metadata refers to  | data about data
-,# The presence of ____ diagram in the requirement�.between operation and DW system  | information package
-,# indicator of high-quality data ensures that there are no missing values for given attribute in the system  | completeness
-,# right value for that occurrence of the data element  | accuracy
-,# represents the level of detail in the factable  | data granularity
-,# Button-approach, data mart are created first to provide analytical and reporting capabilities for specific business subject base on dimension  | t	
-,# System focus on individual events  | OLTP
-,# System capture detail of events or transactions  | OLTP
-,# Source data in DW many come from  | External data, production data, internal data, archived data
-,# DW project life cycle  | project plan, requirement definition ,.., ..,
-,# Which is the challenge ETL  | source system structure keep changing over time because of business condition
-,# Metadata in DW is similar___ to the  | Data dictionary
+,# In table, there is only one___ | index clustered 
+,# The term metadata refers to | data about data
+,# The presence of ____ diagram in the requirement�.between operation and DW system | information package
+,# indicator of high-quality data ensures that there are no missing values for given attribute in the system | completeness
+,# right value for that occurrence of the data element | accuracy
+,# represents the level of detail in the factable | data granularity
+,# Button-approach, data mart are created first to provide analytical and reporting capabilities for specific business subject base on dimension | t	
+,# System focus on individual events | OLTP
+,# System capture detail of events or transactions | OLTP
+,# Source data in DW many come from | External data, production data, internal data, archived data
+,# DW project life cycle | project plan, requirement definition ,.., ..,
+,# Which is the challenge ETL | source system structure keep changing over time because of business condition
+,# Metadata in DW is similar___ to the | Data dictionary
 ,# many answer question on overall process | Business intelligence
-,# on the system run day-to-day business of company  | Operation system 
-,# The data warehouse is on information environment that:  | makes the enterprise�s current and historical information easily available for strategic decision making
+,# on the system run day-to-day business of company | Operation system 
+,# The data warehouse is on information environment that: | makes the enterprise�s current and historical information easily available for strategic decision making
 ,# ROLAP refers to | Relation OLAP
-,# indicator of high-quality  | characteristic
-,# Which not building block  | data schema
-,# In the dimension model  the attribute of DW are divided into  | data warehousing, knowledge management
-,# means  applying ongoing changes recession in a  | incremental load
+,# indicator of high-quality | characteristic
+,# Which not building block | data schema
+,# In the dimension model  the attribute of DW are divided into | data warehousing, knowledge management
+,# means  applying ongoing changes recession in a | incremental load
 ,# OLAP systems provide ____ and roll-up capabilities | drill-down
 ,# degenerated dimensions ___ | contain many attributes
 ,# In SQL (Structured Query Language), which statement(s) is (are) TRUE regarding to the term cardinality? 1) Low-cardinality refers to columns with few unique values. 2) The lower the cardinality, the less duplicated elements in a column. 3) SQL databases use cardinality to help determine the optimal query plan for a given query | There isn't statement
@@ -993,7 +993,7 @@
 ,# Which metadata is used for the IT staff respondible for the development and administration of the data warehouse | Technical Metadata 
 ,# Indexing in the data warehouse database reduces performance of __ | Loading data into data warehouse
 ,# ___ means populating all the data warehouse tables for the very first time | initial load
-,# When your data warehouse has a large number of indexes, the loading of data into the warehouse sppeds up considerably  | false
+,# When your data warehouse has a large number of indexes, the loading of data into the warehouse sppeds up considerably | false
 ,# Dimesional Modeling is suitable for ___ | Data warehouse systems
 ,# In a fact table, there are 3 kinds of attributes: | All the others 
 ,# In ETL, ___ tables are loaded first | dimension
@@ -1003,12 +1003,12 @@
 ,# large tables with millions of rows should have many indexes | f
 ,# in any analytical system, time is a critical dimension | t 
 ,# ROLAP refers to ___ OLAP | relational
-,# Source data in data warehouse may come from:  | All the others 
+,# Source data in data warehouse may come from: | All the others 
 ,# An OLAP cube is an array of data understood in terms of __ dimensions | Its 0 or more
 ,# Which statement is correct | The primary key of the fact table consists of the primary keys of all the connected dimenstions
 ,# Which statement is correct | With OLAP cube, we are able to create data mining structure on this data which can be helpful in forecasting, prediction
 ,# __ may answer questions on overall process | data warehouse 
-,# Entity-Relationship Modeling is suitable for __  | OLTP systems
+,# Entity-Relationship Modeling is suitable for __ | OLTP systems
 ,# __ signifies that the data warehouse stores the information around a particular subject such as product, customer, sales etc | Subject oriented
 ,# Data granularity in a data warehouse refers to the level of detail | t
 ,# __ table contains the values we want to analyze | dimension
