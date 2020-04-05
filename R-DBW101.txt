@@ -1,0 +1,2 @@
+# Which of the following is NOT part of the disk access time? | Surface torsion time
+,# Why is dynamic block assignment (indirect mapping) of the DBS page address space to disk blocks is to prefer a static assignment | Flexibility of disk block assignment
