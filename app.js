@@ -1,28 +1,24 @@
 const { once } = require('events')
-const { createReadStream, writeFile, readdir } = require('fs')
+const { createReadStream, writeFileSync, readdirSync } = require('fs')
 const { createInterface } = require('readline')
-
-let uniqueValue = new Set()
 
 const modifyArr = (arr) => {
   let temp = []
-  // for (let i of arr) {
-  //   temp.push(i + '\n')
-  // }
-  for (let i = 0; i < 2; i++) {
-    temp.push(arr[i] + '\n')
+  for (let i of arr) {
+    temp.push(i + '\n')
   }
   return temp
 }
 
 const processLineByLine = async (filePath) => {
+  let uniqueValue = new Set()
   try {
-    const rl = createInterface({
-      input: createReadStream('SUCCES_KEY/' + filePath),
-      crlfDelay: Infinity,
+    const rl = await createInterface({
+      input: createReadStream('SOURCES_KEY/' + filePath),
+      crlfDelay: 5000,
     })
 
-    rl.on('line', (line) => {
+    await rl.on('line', (line) => {
       if (!uniqueValue.has(line)) {
         uniqueValue.add(line)
       }
@@ -38,19 +34,19 @@ const processLineByLine = async (filePath) => {
 const removeDuplicateAndWrite = async (fileName) => {
   const dataFile = await processLineByLine(fileName)
   const resultFileName = `R-${fileName}`
-  await writeFile(resultFileName, dataFile, { flag: 'w+' }, (err) => console.error(err))
+  writeFileSync(__dirname + '/SUCCESS_KEY/' + resultFileName, dataFile, { flag: 'w+', encoding: 'utf-8' })
 }
 
-const FUCK_ALL_KEYS = (dirPath = __dirname + '/SUCCES_KEY') => {
-  readdir(dirPath, async (err, fileNames) => {
-    if (err) console.log(err)
-    await fileNames.forEach(async (fileName) => {
-      if (/.txt$/.test(fileName)) {
-        await removeDuplicateAndWrite(fileName)
-      }
-    })
+const getKeyName = (dirPath = __dirname + '/SOURCES_KEY') => {
+  return readdirSync(dirPath)
+}
+
+const bootstrap = () => {
+  const keysName = getKeyName()
+  keysName.forEach((keyName) => {
+    removeDuplicateAndWrite(keyName)
   })
   console.log('🌈 Đã xoá hết những dòng lặp! Bây h 1 là dùng tool, 2 là tự ôn cmm đi 🥳')
 }
 
-FUCK_ALL_KEYS()
+bootstrap()

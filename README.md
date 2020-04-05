@@ -2,7 +2,7 @@
 
 Bổ trợ tạo ra key chuẩn hơn so với key gốc!
 
-## B1: Nhét đống key vào folder SUCCESS_KEY
+## B1: Nhét đống key vào folder **SOURCES_KEY**
 
 ## B2: Chạy lệnh sau
 
@@ -10,4 +10,4 @@ Bổ trợ tạo ra key chuẩn hơn so với key gốc!
 yarn umbala
 ```
 
-## B3: Tận hưởng thành quả thôi bae!
+## B3: Vào folder **SUCCESS_KEY** Tận hưởng thành quả thôi bae!
