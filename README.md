@@ -2,6 +2,10 @@
 
 Bổ trợ tạo ra key chuẩn hơn so với key gốc!
 
+- Xoá những dòng duplicate
+- Xoá những dòng null
+- Xoá những dấu cách thừa
+
 ## B1: Nhét đống key vào folder **SOURCES_KEY**
 
 ## B2: Chạy lệnh sau
