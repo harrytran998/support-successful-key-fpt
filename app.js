@@ -10,7 +10,7 @@ const trimLine = (line) => {
   if (line === '') return
   let lineTrim = line.split('|')
   lineTrim[0] = lineTrim[0].trimRight()
-  lineTrim[1] = lineTrim[1].trimLeft()
+  lineTrim[1] = lineTrim[1].trimLeft().toLowerCase()
   return lineTrim.join(' | ')
 }
 
