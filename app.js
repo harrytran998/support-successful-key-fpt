@@ -9,8 +9,16 @@ const { createInterface } = require('readline')
 const trimLine = (line) => {
   if (line === '') return
   let lineTrim = line.split('|')
-  lineTrim[0] = lineTrim[0].trimRight()
-  lineTrim[1] = lineTrim[1].trimLeft().toLowerCase()
+  if( !lineTrim[1] || lineTrim[1].trim() === '') return
+  if(lineTrim[0]) {
+    lineTrim[0] = lineTrim[0].startsWith("#") ? lineTrim[0].replace('#', '') : lineTrim[0]
+    lineTrim[0] = lineTrim[0].trim()
+  }
+  if(lineTrim[1]) {
+    lineTrim[1] = lineTrim[1].trim()
+    lineTrim[1] === 'f' ? lineTrim[1] = 'False' : lineTrim[1]
+    lineTrim[1] === 't' ? lineTrim[1] = 'True' : lineTrim[1]
+  }
   return lineTrim.join(' | ')
 }
 
