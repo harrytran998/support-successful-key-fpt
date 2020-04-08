@@ -1151,7 +1151,7 @@ What is the value of num assuming that all 12 elements of array test are initial
 What is the value of s1 after the following code is executed? var s1 = "deitel and associates" s1 = s1.slice( 6 ) | c) and associates
 What is the value of s3 after the following code is executed? var s1 = one, s2 = two, s3 = three; s1.concat(s2) s3 = s1; | onetwo
 What is this: ? | references a shared dtd
-What is wrong with the following line of code? <P><FONT SIZE='5'>This is a test.</FONT></P> | nothing
+What is wrong with the following line of code? <P><FONT SIZE='5'>This is a test.</FONT></P> | There is no attribute named SIZE for the element FONT
 What is wrong with the following VBScript code? 1 Select Case x 2 Case 1 3 Call MsgBox("1") 4 Case 2 5 Call MsgBox("2") 6 Case Else 7 Call MsgBox("?") 8 End Select | nothing.
 What is wrong with the following VBScript code? If (s = t) Then u = s + t ElseIf (s > t) Then u = r Else u = n End If | nothing
 What is wrong with the following VBScript code? Select Case x Case 1 Call MsgBox("1") Case 2 Call MsgBox("2") Case Else Call MsgBox("?") End Select | nothing.
@@ -2378,7 +2378,7 @@ What is wrong with the following line of code?
 a. Nothing
 b. There is no attribute named SIZE for the element FONT
 c. The value 5 must not be placed within quotes
-d. The value 5 must be placed within double quotes ===> Aswer:  a
+d. The value 5 must be placed within double quotes ===> Aswer:  b
 
 What is XML?
 a. Extensible Markup Language
