@@ -612,8 +612,7 @@
 # Which one should not use when choosing an index | add secondary index to an attribute if the query will retrieve a significant propotion of the relation
 # Choose the incorrect statement | a relation that contains one or more repeating groups is in 1nf
 # Which one is not basic concept of the Entity Relationship(ER) model | relationship type 
-# Which one is not an additional sementic modeling concept in Enhanced Entity-Relationship (EER) model | application
-# Which of the following is one phase in Cross Industry Standard Process for Data Mining (CRISP-DM) Model | evaluation
+
 # Which one is not collection type in SQL 2003 | multiarray
 # Choose the correct statement | a relation in which the intersection of each row and column contains one and only one value is in 1nf
 # Which one is not a transformation rule for relation algebra operations to constrcut the query tree when doing query processing | commutavity of union and set difference
@@ -828,7 +827,6 @@
 # MOLAP refers to ________ OLAP | a. multidimensional
 # Building a data warehouse is very different from building an operational system | a. true
 # Which is NOT a key issue while planning for your data warehouse | d. requirment changes
-# In any analytical system, time is a critical dimension | a. true
 # __________ acts as the glue that connects all parts of the data warehouse | c. metadata
 # Data granularity in a data warehouse refers to the level of detail | b. true
 # What are the three major areas in the data warehouse | b. data acquisition, data storage, information delivery
@@ -856,7 +854,6 @@
 # Which is(are) the common transformation type(s) | d. all the others
 # ________ table contains the values we want to analyze | a. dimension
 # ETL stands for _________ | c. data extraction, transformation, and loading
-
 # Quality is: | the degree to which the project meets requirements 
 # All the following are examples of Perform Quality Control EXCEPT: | cost of quality
 # Pareto charts help the project manager: | focus on the most critical issues to improve quality

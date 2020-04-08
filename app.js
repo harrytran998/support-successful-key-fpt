@@ -7,11 +7,14 @@ const { createInterface } = require('readline')
  * @param {String} line
  */
 const trimLine = (line) => {
+  const regex = ' | '
   if (line === '') return
-  let lineTrim = line.split('|')
-  lineTrim[0] = lineTrim[0].trimRight()
-  lineTrim[1] = lineTrim[1].trimLeft().toLowerCase()
-  return lineTrim.join(' | ')
+  if (line.includes(regex)) {
+    let lineTrim = line.split(regex)
+    lineTrim[0] = lineTrim[0].trimRight()
+    lineTrim[1] = lineTrim[1].trimLeft().toLowerCase()
+    return lineTrim.join(regex)
+  }
 }
 
 const modifyArr = (arr) => {

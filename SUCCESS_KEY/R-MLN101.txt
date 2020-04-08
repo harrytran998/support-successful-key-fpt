@@ -454,7 +454,7 @@ QN=258 Thế nào là lao động giản đơn? | là lao động đòi hỏi ph
 QN=295 Khối lượng giá trị thặng dư (M) được tính bằng công thức | m= m'. v'
 QN=82 Vật trong chân không luôn chuyển động với gia tốc 9,8 m/s2; nước ở áp suất 1 atmôtphe luôn sôi ở 100oC. Điều này chứng tỏ... | một nguyên nhân nhất định, trong những hoàn cảnh giống nhau, sẽ tạo nên những kết quả giống nhau
 QN=330 Tỷ suất lợi nhuận (p') là: | tỷ lệ phần trăm giữa tổng giá trị thặng dư và toàn bộ tư bản khả biến
-QN=179 Chọn câu trả lời đúng theo quan điểm của chủ nghĩa duy vật lịch sử:Mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất là mối quan hệ: | c.thống nhất và đấu tranh của các mặt đối lập 
+
 QN=86 Câu nào dưới đây là câu đúng và đủ: | tất nhiên và ngẫu nhiên có thể chuyển hóa cho nhau
 QN=222 Chọn câu trả lời đúng theo quan điểm duy tâm xã hội: | các vĩ nhân, những cá nhân kiệt xuất
 QN=48 Không gian và thời gian: | không gian và thời gian đều là những hình thức cơ bản của tồn tại vật chất
