@@ -1,0 +1,451 @@
+an adjusting entries for unearned revenue affects | revenue and liabilities
+how will it affect total assets in the balance sheet if tangible fixed assets are not depreciated at the end of the period? | total assets are overstated
+how will it affect income statement if an accrued expense of $450 is forgotten to record at the end of the period? | net income in the income statement will be overstated for $450
+what accounting principle requires credit sales revenue also included in the income statement? | accrual basis
+which kind of account is accumulated depreciation? | contra - asset account
+where is accumulated depreciation reported? | balance sheet
+which statement is true about mary's capital: | the owner's equity account that contains the amount invested in the sole proprietorship by mary smith plus the net income since the company began minus the draws made by mary smith since the company began.
+which account of these accounts will be presented in post-closing trial balance? | retained earnings
+adjusting entries at the end of an accounting period would not be required for which of the following? | revenue that has been earned and recorded in the accounting records
+at the end of the current accounting period, johnson company failed to record utilities consumed during the period. johnson will be billed for the utilities during the next accounting period. as a result, current period liabilities, and income, respectively, are | understate, overstate
+how will the financial statements be affected if accountant in the company forgot to adjust a prepaid expense account at the end of the period? | assets in the balance sheet will be overstated and expenses in the income statement will be understated
+the following transactions, among others, occurred during august. which transaction represented an expense during august | rent a space for office on account. the rental amount will be paid in the next 2 months
+how many accounts does every business transaction affect at least? | 2
+which type of information would be of most interest to creditors? | ability of the company to pay debts
+the account used to record the investment of owner into the business is: | the owner's contributed capital account
+if assets are $199,000 and liabilities are $132,000, then equity equals | $67,000
+provide descriptions for this transaction:debit inventory $8,000 and credit account payable $,8000 | buying inventory on credit $8,000
+failure to make adjusting entries for prepaid expense will result in | understatement of expenses
+the company buys a new car for personal use of the owner is recorded with below entry: | credit cash and debit withdrawal
+which of the following errors would result in the trial balance still balancing? | posted $500 to each account instead of $5000
+the adjusting entry to record the earned but unpaid salaries of employees at the end of an accounting period is: | debit salaries expense and credit salaries payable
+identity the consequences of not making adjustment for accrued expense | understatement of liabilities
+the company buys a new building for operation is recorded with below entry: | credit cash and debit equipment
+a cash outflow from the company into its owner is called a(n): | withdrawal
+liability created by purchasing goods and services on credit are: | accounts payable
+
+how does lead company record by the billing of a client for $15,000 of service completed? | +$15,000 accounts receivable, +$15,000 revenue
+moffat company has assets of $600,000, liabilities of $250,000, and equity of $350,000. what is the entry need to record when moffat company bill of a client for $25,000 of contract completed? | +$25,000 accounts receivable, +$25,000 revenue.
+a company might buy a service or product on credit. "on credit" implies that the cash payment will occur: | on a later date
+provide descriptions for this transaction:increase cash $1,000 and increase equity $,1000 | investment of cash in business by owner or performed services for cash
+provide descriptions for this transaction:increase cash $4,000 and increase contributed capital $4000 | investment of cash in business by owner
+provide descriptions for this transaction:debit office supplies $8,000 and credit  liability $,8000 | buying office supplies on credit $8,000
+provide descriptions for this transaction:decrease cash $3500 and decrease equity $3500 | withdraw cash from the business by owner or paid cash for an expense 
+items used in business operations, such as office pens and  paper are several samples of: | office supplies
+the difference between a company's assets and its liabilities, or net assets is: | equity
+resources owned or controlled by a company that are expected to yield future benefits are: | assets
+zion company has assets of $600,000, liabilities of $250,000, and equity of $350,000. it buys office equipment on credit for $75,000. what would be the effects of this transaction on the accounting equation? | assets increase by $75,000 and liabilities increase by $75,000.
+internal users of accounting information include: | managers.
+a chart of accounts generally starts with which of the following types of accounts? | asset accounts
+which of the following is a liability? | account payable
+if a company paid $38,000 of its accounts payable in cash, what was the effect on the assets, liabilities, and equity? | assets would decrease $38,000, liabilities would decrease $38,000, and equity would not change.
+assets created by selling goods and services on credit are: | accounts receivable.
+a payment to an owner for personal use is called a(n): | withdrawal.
+the properties used in operation activities of a business is called: | assets
+which of the following is a liability? | note payable
+which of the following is not considered as subcategory of owner�s equity? | assets
+which of the following is not a liability? | short term investment
+which of the following is not a category or element of the balance sheet? | expense             
+the account used to record the transfers of assets from a business to its owner is: | the owner's withdrawals account.
+reflects assumption that the business will continue operating instead of being closed or sold. | going-concern assumption 
+a company must record its expenses incurred to generate the revenue reported at the same period.it is about: | matching principle 
+which is the assumption stating that a business is accounted for separately from other business entities, including its owner? | business entity assumption 
+which are expected to be sold, collected or used within one year or the company�s operating cycle? | current assets
+flash has beginning equity of $257,000, net income of $51,000, withdrawals of $40,000 and investments by owners of $6,000. its ending equity is: | $274,000
+which of the following statements is true about assets? | all of these
+net income: | is the excess of revenues over expenses
+decreases in equity that represent costs of assets or services used to earn revenues are called: | expenses
+accounting is an information and measurement system that: | all of these.
+which of the following accounting principles would require that all goods and services purchased should be recorded at cost? | cost principle
+external users of accounting information include: | all of these.
+the description of the relation between a company's assets, liabilities, and equity, which is expressed as assets = liabilities + equity, is known as the: | accounting equation.
+another name for equity is: | net asset.
+on june 30 of the current year, the assets and liabilities of phoenix phildell are as follows: cash $20,500; accounts receivable, $7,250; supplies, $650; equipment, $12,000; accounts payable, $9,300. what is the amount of owner's equity as of july 1 of the current year? | $31,100
+accounts receivable refers: | a promise from customer for service or product the company provided on credit
+money which a company owes to vendors for products and services purchased on credit. this item appears on the company's balance sheet as a current liability. | account payable
+if the assets of a business increased $89,000 during a period of time and its liabilities increased $67,000 during the same period, equity in the business must have: | increased $22,000.
+if the liabilities of a company increased $74,000 during a period of time and equity in the company decreased $19,000 during the same period, what was the effect on the assets? | assets would have increased $55,000.
+the following transactions occurred during july:1. received $900 cash for services provided to a customer during july.2. received $2,200 cash investment from barbara hanson, the owner of the business.3. received $750 from a customer in partial payment of his account receivable which arose from sales in june.4. provided services to a customer on credit, $375.5. borrowed $6,000 from the bank by signing a promissory note.6. received $1,250 cash from a customer for services to be rendered next year.what was the amount of revenue for july? | $ 1,275.
+creditors' claims on the assets of a company are called: | liabilities.
+distributions by a business to its owners are called: | withdrawals.
+how would the accounting equation of boston company be affected by the billing of a client for $10,000 of consulting work completed? | +$10,000 accounts receivable, +$10,000 revenue.
+$370.a company had inventory of 15 units at a cost of $20 each on november 1. on november 2, it purchased 10 units at $22 each. on november 6 it purchased 12 units at $25 each. on november 8, it sold 22 units for $54 each. using the fifo perpetual inventory method, what was the cost of the 22 units sold? | $454.
+a balance sheet lists: | the types and amounts of assets, liabilities, and equity of a business as of a specific date.
+a business is accounted for separately from other business entities, including its owner. | business entity assumption 
+a company acquires equipment for $75,000 cash. this represents a(n): | investing activity.
+a company borrows $125,000 from the eastside bank and receives the loan proceeds in cash. this represents a(n): | financing activity.
+a company had inventory of 10 units at a cost of $20 each on november 1. on november 2, it purchased 10 units at $21 each. on november 6 it purchased 15 units at $25 each. on november 8, it sold 20 units for $54 each. using the lifo perpetual inventory method, what was the cost of the 20 units sold? | $480.
+a company had inventory of 10 units at a cost of $20 each on november 1. on november 2, it purchased 10 units at $22 each. on november 6 it purchased 6 units at $25 each. on november 8, it sold 22 units for $54 each. using the fifo perpetual inventory method, what was the cost of the 22 units sold? | $470
+a company had inventory of 5 units at a cost of $20 each on november 1. on november 2, it purchased 10 units at $22 each. on november 6 it purchased 6 units at $25 each. on november 8, it sold 18 units for $54 each. using the lifo perpetual inventory method, what was the cost of the 18 units sold? | $410
+a company had inventory on november 1 of 5 units at a cost of $20 each. on november 2, they purchased 10 units at $22 each. on november 6 they purchased 6 units at $25 each. on november 8, 8 units were sold for $55 each. using the lifo | $276
+a company had no office supplies available at the beginning of the year. during the year, the company purchased $250 of office supplies. on december 31, $75 of office supplies remained. how much should the company report as office supplies expense for the year? | $175
+a company had the following purchases during the current year: jan: 10 units at $ 120 feb: 20 units at $130 | $3,800.
+a company has $20,000 in outstanding accounts receivable and it uses the allowance method to account for uncollectible accounts. experience suggests that 6% of outstanding receivables are uncollectible. the current debit balance (before adjustments) in the allowance for doubtful accounts is $800. the journal entry to record the adjustment to the allowance account includes a debit to bad debts expense for: | $400
+a company has inventory of 10 units at a cost of $10 each on june 1. on june 3, it purchased 20 units at $12 each. 12 units are sold on june 5. using the fifo periodic inventory method, what is the cost of ending inventories? | $216.
+a company has inventory of 10 units at a cost of $10 each on june 1. on june 3, it purchased 20 units at $12 each. 12 units are sold on june 5. using the fifo perpetual inventory method, what is the cost of the 12 units that were sold? | $124
+a company has inventory of 15 units at a cost of $2 each on august 1. on august 5, it purchased 10 units at $3 per unit. on august 12 it purchased 20 units at $4 per unit. on august 15, it sold 30 units. using the fifo perpetual inventory method, what is the value of the inventory at august 15 after the sale? | $60.
+a company has inventory of 20 units at a cost of $12 each on august 1. on august 5, it purchased 10 units at $13 per unit. on august 12 it purchased 15 units at $14 per unit. on august 15, it sold 30 units. using the fifo periodic inventory method, what is the value of cost of goods sold on august 15? | $370.
+a company has sales of $350,000, account receivable of 50,000 and estimates that 0.7% of its sales are uncollectible. the estimated amount of bad debts expense is | $2,450. 
+a company might provide a service or product on credit. "on credit" implies that the cash payment will occur: | on a later date
+a company must record its expenses incurred to generate the revenue reported.it is about: | matching principle 
+a company purchased a new truck at a cost of $42,000 on july 1, 2009. the truck is estimated to have a useful life of 6 years and a salvage value of $3,000. the company uses the straight-line method of depreciation. how much depreciation expense will be recorded for the truck for the year ended december 31, 2009? | $3,250.
+a company purchased a plant asset for $45,000. the asset has an estimated salvage value of $6,000, and an estimated useful life of 10 years. the annual depreciation expense using the straight-line method is | $3,900 per year. 
+a company purchased new computers at a cost of $14,000 on october 1, 2010. the computers are estimated to have a useful life of 4 years and a salvage value of $2,000. the company uses the straight-line method of depreciation. how much depreciation expense will be recorded for the computers for the year ended december 31, 2010? | $750
+a company purchased new computers at a cost of $28,000 on january 1, 2010. the computers are estimated to have a useful life of 5 years and have a salvage value of 3,000. the company uses the straight-line method of depreciation. how much depreciation expense will be recorded for the computers for the year ended december 31, 2010? | $5,000
+a company used straight-line depreciation for an item of equipment that cost $12,000, had a salvage value of $2,000, and had a five-year useful life. what is the depreciation expense for one year? | $2000.
+a company's office supplies account shows a beginning balance of $600 and an ending balance of $400. if office supplies expense for the year is $3,100, what amount of office supplies was purchased during the period? | $2,900.
+a company's balance sheet shows: cash $22,000, accounts receivable $16,000, office equipment $50,000, and accounts payable $17,000. what is the amount of owner's equity? | $71,000.
+a condition in which a company's expenses exceed its revenues. what does that mean: | a loss
+a credit is used to record: | all of these.
+a debit is used to record: | an increase in the balance of the owner's withdrawals account.
+a debit is: | the left-hand side of a t-account.
+a liability account that reports amounts received in advance of providing goods or services. it is about: | unearned revenue
+a method of valuing inventory in which the items acquired last are treated as the ones sold first. what is it? | lifo
+a method of valuing the cost of goods sold that uses the cost of the oldest items in inventory first. what is it? | fifo
+a record of financial transactions in order by date and often defined as the book of original entry. this statement is about: | a general journal
+a simple account form widely used in accounting as a tool to understand how debits and credits affect an account balance is called a: | t-account.
+a vehicle had an estimated useful life of 8 years. the vehicle cost $23,000 and its estimated salvage value is $1,500. the depreciation expense (using straight line method) for a year is: | $ 2687.50.
+acceptable inventory methods include: | all of these.
+accounts receivable that may become uncollectable and will be written off , is known as: | bad debts
+acme-jones company uses a weighted-average perpetual inventory system. august 2, 8 units were purchased at $12 per unit. august 18, 15 units were purchased at $14 per unit. | $15.38.
+acme-jones corporation uses a weighted-average perpetual inventory system.  august 2, 10 units were purchased at $12 per unit. august 18, 15 units were purchased at $14 per unit. | $158.40.
+adjusting depreciation expense of fixed asset at $8,000. recording this transaction: | debit depreciation expense  $8,000 and credit  accumulated depreciation expense $,8000
+adjusting entries are journal entries made at the end of an accounting period for the purpose of: | all of these.
+adjusting entries: | affect both income statement and balance sheet accounts.
+after preparing and posting the closing entries to close revenues (and gains) and expenses (and losses) into the income summary, the income summary account has a debit balance of $33,000. the entry to close the income summary account will include: | a debit of $33,000 to owner capital.
+all expenditures necessary to bring an item to a salable condition and location. this statement is the definition of: | inventory costs
+an account used to record the owner's investments in the business is called a(n): | capital account.
+an adjusting entry could be made for each of the following except: | owner withdrawals. owner capital. cash. account payable. revenue. cost of goods sold.
+an asset created by prepayment of an expense is: | recorded as a debit to a prepaid expense account.
+an estimate of an asset's value at the end of its benefit period is called: | salvage value
+an example of a financing activity is: | obtaining a long-term loan.
+an example of an investing activity is | purchase of land.
+an example of an operating activity is: | paying wages.
+an overstatement of ending inventory will cause | an overstatement of assets and equity on the balance sheet.
+assets, liabilities, and equity accounts are not closed; these accounts are called: | permanent accounts.
+at the beginning of 2009, beta company's balance sheet reported total assets of $195,000 and total liabilities of $75,000. during 2009, the company reported total revenues of $226,000 and expenses of $175,000. also, owner withdrawals during 2009 totaled $48,000. assuming no other changes to owner's capital, the balance in the owner's capital account at the end of 2009 would be: | $123,000.
+at the beginning of 2009, a company's balance sheet reported the following balances: total assets = $125,000; total liabilities = $75,000; and owner's capital = $50,000. during 2009, the company reported revenues of $46,000 and expenses of $30,000. in addition, owner's withdrawals for the year totaled $20,000. assuming no other changes to owner's capital, the balance in the owner's capital account at the end of 2009 would be: | $46,000.
+at the beginning of january of the current year, thomas law center's ledger reflected a normal balance of $52,000 for accounts receivable. during january, the company collected $14,800 from customers on account and provided additional services to customers on account totaling $12,500. additionally, during january one customer paid thomas $5,000 for services to be provided in the future. at the end of january, the balance in the accounts receivable account should be: | $49.7
+at the beginning of january of the current year, a law company has a normal balance of $50,000 for accounts receivable. during january, the company collected $14,000 from customers and provided additional services to customers on account totaling $12,000. additional, company used service of $ 1,000 on credit. at the end of january, the balance in the accounts receivable account should be: | $48,000.
+book value is equal to: | none of these
+borrow $ 1,000 loan to pay for new equipment of the company is recorded with: | debit equipment and credit loan
+branz company had credit sales during the current year which amounted to $700,000. historically, 3% of credit sales are uncollectible. if branz uses the allowance method of recording uncollectible accounts, a proper journal entry for the year would be: | dr. uncollectible accounts expense 21,000 cr. allow. for uncollectible accounts     21,000
+calculated as sales minus all costs directly related to those sales. it is about: | gross profit
+cooley company has the balance in the accounts payable at the beginning of march was $1,000. during the month of march, cooley company purchased from dell company on account totaling $2,000. also during this month, cooley company paid $500 on its accounts payable for dell company. in addition, cooley company was paid $8,000 by a customer for services to be provided in the future. | $2,500
+costs included in the merchandise inventory account can include: | all of these.
+costs included in the merchandise inventory account can include: | invoice price minus any discount, transportation-in, storage, insurance
+decreases in equity that represent costs of assets or services used to earn revenues are called: | expenses.
+depreciation is: | the assigning or allocating of a fixed asset�s cost to expense over the accounting periods that the asset is likely to be used.
+dina kader withdrew a total of $35,000 from her business during the current year. the entry needed to close the withdrawals account is: | debit dina kader, capital and credit dina kader, withdrawals for $35,000.
+distributions by a business to its owners are called: | withdrawals
+during a period of steadily rising costs, the inventory valuation method that yields the lowest reported net income is: | lifo method.
+during the month of february, hoffer company had cash receipts of $7,500 and cash disbursements of $8,600. the february 28 cash balance was $1,800. what was the january 31 beginning cash balance? | $2,900.
+electron borrowed $15,000 cash from techcom by signing a promissory note. techcom's entry to record the transaction should include a: | debit to notes receivable for $15,000.
+ending inventory is equal to merchandise available for sale minus cost of goods sold. | ending inventory is equal to merchandise available for sale minus cost of goods sold.
+external users of accounting information exclude: | manager
+flash had cash inflows from operations $62,500; cash outflows from investing activities of $47,000; and cash inflows from financing of $25,000. the net change in cash was: | $40,500 increase.
+flash has beginning equity of $257,000, net income of $51,000, withdrawals of $40,000 and investments by owners of $6,000. its ending equity is: | $274,000.
+flynn company uses an allowance method for recording uncollectible. at the due date of that account receivable, flynn determined that $4,000 due from mitchell will not be collected and should be write off. the entry flynn should record to write off the mitchell account is: | dr. allow. for uncollectible accounts 4,000 cr. accounts receivable     4,000
+given the following information, determine the cost of the inventory at june 30 using the lifo perpetual inventory method. june, 1: beginning inventory 15 units at $20 each | $120.
+gross increases in equity from a company's earnings activities are: | revenues.
+how does lead company record by the billing of a client for $15,000 of service completed? | +$15,000 accounts receivable, +$15,000 revenue.
+if hussan, the owner of hardware company, uses cash of the business to purchase a motorcycle for his travelling, the business should record this use of cash with an entry to: | debit withdrawals and credit cash.
+if jones, the owner of hardware company, uses cash of the business to purchase a family car, the business should record this use of cash with an entry to: | debit withdrawals and credit cash.
+if smith, the owner of a restaurant, uses cash of the business to  pay for renting his house, the business should record this use of cash with an entry to: | debit withdrawals and credit cash.
+if tim jones, the owner of jones hardware proprietorship, uses cash of the business to purchase a family automobile, the business should record this use of cash with an entry to: | debit tim jones, withdrawals and credit cash.
+if accrued salaries were recorded on december 31 with a credit to salaries payable, the entry to record payment of these wages on the following january 5 would include: | a debit to salaries payable and a credit to cash.
+if assets are $365,000 and equity is $120,000, then liabilities are: | $245,000.
+if equity is $300,000 and liabilities are $192,000, then assets equal: | $492,000.
+if the liabilities of a business increased $75,000 during a period of time and the owner's equity in the business decreased $30,000 during the same period, the assets of the business must have: | increased $45,000.
+if throughout an accounting period the fees for legal services paid in advance by clients are recorded in an account called unearned legal fees, the end-of-period adjusting entry to record the portion of those fees that has been earned is: | debit unearned legal fees and credit legal fees earned.
+inventory accounts should be classified in which section of a balance sheet? | current assets
+invested $10,000 cash, and $15,000 of computer equipment. prepare journal entries to record the above transactions | debit cash $ 10,000 debit equipment $ 15,000 credit capital $25,000
+j. awn, the proprietor of awn services, withdrew $8,700 from the business during the current year. the entry to close the withdrawals account at the end of the year, is: | debit capital $8,700 and credit withdrawal  $ 8,700
+john set up a new business and completed these transactions: 1. open new restaurant, by investing $30,000 cash and equipment valued at $10,000. 2. purchased $1,000 of kitchen utility on credit. 3. paid $1,500 cash for the staff�s salary. 4. service meals to customers and collected$4,000 cash what was the balance of the cash account after these transactions were posted? | $32,500
+john, the owner of matt company, withdrew $8,000 from the business during the current year. the entry to close the withdrawals account at the end of the year, is: | debit capital $8,000 and credit withdrawal  $ 8,000
+journal entries recorded at the end of each accounting period to prepare the revenue, expense, and withdrawals accounts for the upcoming period and to update the owner's capital account for the events of the period just finished are referred to as: | closing entries.
+lomax enterprises purchased a depreciable asset for $20,000 on january 1, 2008. the asset will be depreciated using the straight-line method over its four-year useful life. assuming the asset's salvage value is $2,000, what will be the amount of accumulated depreciation on this asset on june 30, 2011? | $15750
+merchandise inventory includes: | all goods owned by a company and held for sale
+nelson company purchased equipment on july 1 for $27,500 and decided to depreciate the equipment on the straight-line method over its useful life of five years. assuming the equipment's salvage value is $3,500, the amount of monthly depreciation expense nelson should recognize is: | $400
+net income: | is the excess of revenues over expenses.
+net sales minus cost of goods sold equals to: | gross profit
+newton company uses the allowance method of accounting for uncollectible accounts. on may 3, the newton company wrote off the $3,000 uncollectible account of its customer, p. best. the journal entry on may 3 is: | dr allowance for doubtful debts	3000
+of the following account types, which would be increased by a debit? | assets and expenses.
+of the following accounts, the one that normally has a credit balance is: | sales salaries payable.
+office supplies available at the beginning of the year are 0. during the year, the company purchased $250 of office supplies. on december 31, $90 of office supplies remained. how much should the company report as office supplies expense for the year? | $160
+office supplies available at the beginning of the year are 0. during the year, the company purchased $3000 of office supplies. on december 31,   $1000 of office supplies remained. additional company�s insurance expense is $ 1000. how much should the company report as office supplies expense for the year? | $2000
+on april 1, 2009, a company paid the $1,350 premium on a three-year insurance policy with benefits beginning on that date. what will be the insurance expense on the annual income statement for the year ended december 31, 2009? | $337.50.
+on april 30, 2009, a three-year insurance policy was purchased for $18,000 with coverage to begin immediately. what is the amount of insurance expense that would appear on the company's income statement for the year ended december 31, 2009? | $4,000.
+on april 30, holden company had an accounts receivable balance of $18,000. during the month of may, total credits to accounts receivable were $52,000 from customer payments. the may 31 accounts receivable balance was $13,000. what was the amount of credit sales during may? | $47,000.
+on january 1 a company purchased a five-year insurance policy for $1,800 with coverage starting immediately. if the purchase was recorded in the prepaid insurance account, and the company records adjustments only at year-end, the adjusting entry at the end of the first year is: | debit insurance expense, $360; credit prepaid insurance, $360.
+on january 1, southwest college received $1,200,000 in unearned tuition revenue from its students for the spring semester, which spans four months beginning on january 2. what amount of tuition revenue should the college recognize on january 31? | $300,000.
+on june 1, $800 of goods are sold with credit terms of 1/10, n/30. how much would the seller receive if the buyer pays on june 8? | 792
+on june 1, 2010, the company paid $1,000 cash for the loan owing the bank before. recording this transaction. | credit cash and debit loan
+on june 1, paid $200 cash for office supplies. prepare journal entries to record the above transactions on june 1. | debit office supplies $200 credit cash $ 200
+on june 30, 2009, apricot co. paid $7,500 cash for a service that will be performed during two-year period.  on june 30, 2009 apricot should record: | a debit to a prepaid expense for $7,500 and credit cash $ 7,500
+on may 1, 2009 giltus advertising company received $1,500 from julie bee for advertising services to be completed april 30, 2010. the cash receipt was recorded as unearned fees and at december 31, 2009, $1,000 of the fees had been earned. the adjusting entry on december 31 year 1 should include: | a credit to earned fees for $1,000.
+on september 30, the cash account of value company had a normal balance of $5,000. during september, the account was debited for a total of $12,200 and credited for a total of $11,500. what was the balance in the cash account at the beginning of september? | a $4,300 debit balance.
+operating activities: | involve using resources to research, develop, purchase, produce, distribute and market products and services.
+orange company purchased equipment on july 1 for $28,500 and decided to depreciate the equipment on the straight-line method over its useful life of five years. assuming the equipment's salvage value is $4,500, the amount of monthly depreciation expense nelson should recognize is: | $400
+ppw co. leased a portion of its store to another company for eight months beginning on october 1, 2009, at a monthly rate of $800. this other company paid the entire $6,400 cash on october 1, which ppw co. recorded as unearned revenue. the journal entry made by ppw co. at year- end on december 31, 2009 would include: | a credit to rent earned for $2,400.
+photometer company paid off $30,000 of its accounts payable in cash. what would be the effects of this transaction on the accounting equation? | assets, $30,000 decrease; liabilities, $30,000 decrease; equity, no effect.
+prepaid expenses are: | assets that represent prepayments of future expenses.
+prepaid expenses, depreciation, accrued expenses, unearned revenues, and accrued revenues are all examples of: | items that require adjusting entries.
+prepare general journal entries to record the march 16 sale assuming a cash sale and the fifo method is used. | march 16 dr 	cash	640 cr 	sale revenue	640
+prepare the general journal entry to record the march 16 sale assuming a cash sale and the lifo method is used: | dr 	cash	640 dr 	cogs	480
+prepare the general journal entry to record the march 16 sale assuming a cash sale and the weighted average method is used. | dr 	cash	640 dr 	cogs	 430
+prior to recording adjusting entries, the office supplies account had a $359 debit balance. a physical count of the supplies showed $105 of unused supplies available. the required adjusting entry is: | debit office supplies expense $254 and credit office supplies $254.
+provide descriptions for this transaction: debit expense $2,000 and credit supplies  $2,000 | used supplies
+provide descriptions for this transaction:credit cash $ 2,000 and debit account payable $ 2,000 | paid accounts payable.
+provide descriptions for this transaction:credit cash and debit owner equity | withdrawal of cash from business by owner for personal use or paid expense of business
+provide descriptions for this transaction:credit supplies $ 2,000 and debit expense $ 2,000 | used supplies in business worth of $ 2,000
+provide descriptions for this transaction:debit cash  $8,000 and credit  unearned revenue  $,8000 | received payment in advance from customers by cash $8,000
+provide descriptions for this transaction:debit cash $ 5,000 and credit account receivable $5,000 | received cash for an account receivable.
+provide descriptions for this transaction:debit insurance expense  $8,000 and credit  insurance - prepaid expense  $,8000 | adjusting prepaid expense at the end of period $8,000
+provide descriptions for this transaction:debit inventory $8,000 and credit  cash $,8000 | buying inventory by cash $8,000
+provide descriptions for this transaction:debit inventory $8,000 and credit  liability $,8000 | buying inventory on credit $8,000
+provide descriptions for this transaction: increase cash $4,000 and increase contributed capital $4000 | investment of cash in business by owner	
+provide descriptions for this transaction:debit office supplies $2,000 and credit  liability $,2000 | buying office supplies on credit $2,000
+provide descriptions for this transaction:debit supplies $1,000 and credit account payable $1,000 | purchased supplies on credit.
+provide descriptions for this transaction:debit unearned revenue  $8,000 and credit  revenue  $8,000 | adjusting unearned revenue at the end of period $8,000
+provide descriptions for this transaction: decrease cash $3500 and decrease equity $3500 | withdraw cash from the business by owner or paid cash for an expense 
+realistic company purchased a new truck on january 1, 20x1. the truck cost $20,000, has a four-year life, and a $4,000 residual value. the company has a december 31 year-end. if realistic company depreciates the truck by the straight-line method, how much should realistic report as the book value of the truck at the end of 20x3? | $8,000
+reflects assumption that the business will continue operating instead of being closed or sold. it is about: | going-concern assumption 
+repayment of the loan for the bank $ 2,000 cash | credit cash, debit loan
+resources owned or controlled by a company that are expected to yield future benefits are: | assets.
+revenues, expenses, and withdrawals accounts, which are closed at the end of each accounting period are: | temporary accounts.
+selling 1,000 products for a customer and collected $2,000 cash. recording this transaction: | debit cash $ 2,000 and credit revenue $2,000
+selling products for cash $300 and $700 on credit. show the general journal entry to record this transaction. | debit cash $ 300debit account receivable $700 credit revenue $1,000
+something of value that cannot be physically touched, such as a brand, franchise, trademark, or patent is the definition of: | intangible assets
+tangible  assets include: | all of these.
+taylor company uses the direct write-off method of recording uncollectible accounts receivable. recently, a customer informed taylor that he would be unable to pay $300 owed to taylor. taylor's proper journal entry to reflect this event would be: | dr. uncollectible accounts expense 300          
+textron stores purchased a van that cost $35,000. the firm made a payment of $5,000 cash and the balance on credit. show the general journal entry to record this transaction. | debit van $35,000 credit cash $5,000 credit account payable $30,000
+the income summary account is used: | to close the revenue and expense accounts.
+the income summary account is: | temporary account that need to be closed at the end of accounting period.
+the j. godfrey, capital account has a credit balance of $17,000 before closing entries are made. if total revenues for the period are $55,200, total expenses are $39,800, and withdrawals are $9,000, what is the ending balance in the j. godfrey, capital account after all closing entries are made? | $23,400.
+the account used to record the transfers of assets from a business to its owner (personal use) is: | the owner's withdrawals account.
+the accounting assumption that requires every business to be accounted for separately from other business entities, including its owner or owners is known as the: | business entity assumption.
+the accounting principle that requires accounting information to be based on actual cost instead of current value, is the: | cost principle.
+the accounting principle that requires revenue to be reported when earned is the: | revenue recognition principle.
+the adjusting entry to record the earned but unpaid salaries of employees at the end of an accounting period is: | debit salaries expense and credit salaries payable.
+the amount due on the maturity date of a $12,000, 60-day 8%, note receivable is: | $12,160.
+the approach to preparing financial statements based on recognizing revenues when they are earned and matching expenses to those revenues is: | accrual basis accounting.
+the assets of a company total $700,000; the liabilities, $200,000. what are the claims of the owners? | $500,000.
+the balance in tee tax services' office supplies account on february 1 and february 28 was $1,200 and $375, respectively. if the office supplies expense for the month is $1,900, what amount of office supplies was purchased during february? | $1,075
+the balance in the prepaid insurance account before adjustment at the end of the year is $4,800, which represents the insurance premiums for four months. the premiums were paid on november 1. the adjusting entry required on december 31 is: | debit insurance expense, $2,400; credit prepaid insurance, $2,400.
+the business completed these transactions: 1. investing $20,000 cash and a building valued at $100,000. 2. purchased $10,000 of a truck on credit. 3. paid $20,000 cash for raw material. 4. selling products and collected$40,000 cash. what was the balance of the cash account after these transactions were posted? | $40,000
+the buyer is responsible for the costs of shipping when goods are sold with the terms fob | shipping point
+the company buys a new building for personal use is recorded with below entry: | credit cash and debit withdrawal
+the company buys a new car for personal use is recorded with below entry: | credit cash and debit withdrawal
+the company has $1679 credit sales at year end. experiences show that 4% of credit sales may not be collectable. what is the estimated bad debt expense to be record at year end? | $67.16
+the company has no office supplies available at the beginning of the year. during the year, the company purchased $500 of office supplies on credit. on december 31, there is $100 of office supplies remained. how much should the company report for the year as office supplies expense? | $400
+the difference between a company's assets and its liabilities is: | equity
+the difference between a company's assets and its liabilities, or net assets is: | equity.
+the difference between the cost of an asset and the accumulated depreciation for that asset is called | book value.
+the expense created by allocating the cost of fixed assets to the periods in which they are used, representing the expense of using the assets, is called | depreciation expense.
+the financial statement that reports the assets, liabilities, and stockholders' (owner's) equity at a specific date is the | balance sheet
+the financial statement that reports the revenues and expenses for a period of time such as a year or a month is the | income statement
+the financial statement that reports whether the business earned a profit and also lists the types and amounts of the revenues and expenses is called: | an income statement.
+the following transactions occurred during july: 1. received $900 cash for services provided to a customer during july 2. received $2,200 cash investment from barbara hanson, the owner of the business. what was the amount of revenue for july? | $ 1,275.
+the inventory system continually updates accounting records for merchandising transactions. | perpetual inventory system
+the inventory system that updates the accounting records for merchandise transactions only at the end of a period. this statement is about: | periodic inventory system
+the inventory valuation method that identifies each item in ending inventory with a specific purchase and invoice is the: | specific identification method.
+the inventory valuation method that results in the lowest taxable income in a period of inflation is: | lifo method.
+the operating functions of a business exclude: | borrowing
+the proper journal entry to record ransom company's billing of clients for $500 of services rendered is: | dr. accounts receivable 500 cr. service revenue 500
+the properties used in operation activities of a business is call: | assets
+the right side of a t-account is a(n): | credit
+the rule that  financial statements will be prepared with the  assumption that the business will continue operating instead of being closed or sold, is the: | on - going-concern principle.
+the rule that requires financial statements to reflect the assumption that the business will continue operating instead of being closed or sold, unless evidence shows that it will not continue, is the: | going-concern principle.
+the seller is responsible for the costs of shipping its goods to the buyer when the terms of the sale are fob: | destination
+the special account used only in the closing process to temporarily hold the amounts of revenues and expenses before the net difference is added to (or subtracted from) the owner's capital account is the: | income summary account.
+the summary amounts below appear in the income statement and balance sheet columns of a company's december 31 work sheet. prepare the necessary closing entries into income summary asset : $10,000 revenue: $ 15,000 unearned revenue: $1,000 | debit revenue: $15,000 credit income summary: $15,000
+the summary amounts below appear in the income statement and balance sheet columns of a company's december 31 work sheet. prepare the necessary closing entries into income summary asset : $15,000 liability: $14,000 expense: $ 8,000 withdrawal: $1,000 | credit  expense: $8,000 debit income summary: $8,000
+the summary amounts below appear in the income statement and balance sheet columns of a company's december 31 work sheet. prepare the necessary closing entries into income summary asset : $15,000 liability: $14,000 revenue: $ 10,000 withdrawal: $1,000 | debit revenue: $10,000 credit income summary: $10,000
+the summary amounts below appear in the income statement and balance sheet columns of a company's december 31 work sheet. prepare the necessary closing entries into owner capital asset : $15,000 liability: $14,000 withdrawal: $1,000 | debit owner capital: $1,000 credit withdrawal: $1,000
+the system of preparing financial statements based on recognizing revenues when the cash is received and reporting expenses when the cash is paid is called: | cash basis accounting.
+the trial balance: | provides a listing of the balance of each ledger account.
+the useful life of a fixed asset is: | the length of time it is productively used in a company's operations.
+the value of an asset as it appears on a balance sheet, equal to cost minus accumulated depreciation is definition of: | book value
+thomas enterprises purchased a depreciable asset on january 1, 2008 at a cost of $100,000. the asset is expected to have a salvage value of $15,000 at the end of its five-year useful life. balance of accumulated depreciation of this asset at the end of 2009 is | $34000
+under the accrual basis of accounting, expenses are reported in the accounting period when the | expense incurred 
+under the accrual basis of accounting, revenues are reported in the accounting period when the | service or goods have been delivered
+unearned revenues is what type of account? | liability
+unearned revenue is reported in the financial statements as: | a liability on the balance sheet.
+unearned revenues are: | liabilities created when a customer pays in advance for products or services before the revenue is earned.
+viscount company collected $42,000 cash on its accounts receivable. the effects of this transaction as reflected in the accounting equation are: | total assets, total liabilities, and equity are unchanged.
+what is the proper adjusting entry at december 31, the end of the accounting period, if the balance in the prepaid insurance account is $7,750 before adjustment, and the unexpired amount per analysis of policies is, $3,250? | debit insurance expense, $4,500; credit prepaid insurance, $4,500.
+when a sale is made with the credit terms of 2/10, net 30, the "2" refers to the: | discount rate
+which account is noncurrent or long-term asset | equipment, building, vehicle
+which accounts belong to permanent accounts ? | asset, liability, owner capital
+which accounts belong to temporary accounts? | revenue, expense, withdrawal, income summary
+which accounts don�t need to do closing entries? | current liability
+which accounts don�t need to do closing entries? | current asset
+which accounts don�t need to do closing entries? | gross profit
+which accounts don�t need to do closing entries? | intangible asset
+which accounts don�t need to do closing entries? | non � current liability
+which accounts don�t need to do closing entries? | non � current asset
+which accounts need to do closing entries? | all of these
+which accounts used to record amounts owed to suppliers for products or services purchased on credit? | trade accounts payable
+which are expected to be sold collected or used within one year or the company�s operating cycle? | current assets
+which discounts are offered based on quantities purchased | trade discounts
+which discounts are provided to customers as an incentive for them to pay early | purchase discounts
+which is the process that resets revenue, expense and withdrawal account balances to zero at the end of the period | closing process
+which is true about an account balance: | is the difference between the total debits and total credits for an account including the beginning balance
+which is true about expenses: | the costs of assets or services used to generate revenue.
+which is true about revenues: | company's earning activities that contribute to increase owner�s equity .
+which is true about account receivable: | money which is owed to a company by a customer for products and services provided on credit.
+which of the following accounting principles would require that all goods and services purchased should be recorded at cost? | cost principle.
+which of the following accounts is not increased by a credit | asset
+which of the following accounts is not increased by a debit? | revenue
+which of the following assets is not depreciated? | inventory
+which of the following inventory costing methods will always result in the same values for ending inventory and cost of goods sold regardless of whether a perpetual or periodic inventory system is used? | specific identification and fifo
+which of the following statements is correct? | the left side of a t-account is the debit side.
+which of the following statements is incorrect? | adjusting entries affect the cash account.
+which of the following statements is incorrect? | the normal balance of an expense account is a credit.
+which of the following statements is true about assets? | all of these.
+which of the following statements is true? | a debit increases an asset while a credit  decrease an asset
+which statement is about mary�s capital: | the owner's equity account that contains the amount invested in the sole proprietorship by mary smith plus the net income since the company began minus the draws made by mary smith since the company began.
+which statement is correct? | accumulated depreciation is a contra asset account
+which statement is true about revenue: | revenue is reported in the financial statements on the income statement.
+which statement is true about tangible asset? | tangible  assets are assets held for operating activity of the company 
+which statement is true: | a retailer is an intermediary that buys products from manufacturers or wholesalers and sells them to consumers.
+which statement is true: | account payable  is considered a liability on the balance sheet
+which statement is true: | depreciation expense is shown on the income statement in order to achieve accounting's matching principle.
+which statement is true: | generally when an expense or withdraw is involved in a transaction, it will be debit
+which statement is true: | merchandise available for sale includes beginning inventory and net cost of purchases.
+which statement is true: | prepaid expense is considered an asset on the balance sheet
+which statement is true: | unearned revenue  is considered a liability on the balance sheet
+which statement is true? | expenses decrease owner�s equity
+which statement is true? | the double entry system requires every transaction to be recorded in at least two places
+which statement is true? | assets need to depreciate include  vehicle, machine,  buildings
+which statement is true? | a contra-asset account such as accumulated depreciation will likely have credit balance
+which statement is true? | current liabilities include accounts payable, unearned revenues, and salaries payable. 
+which statement is true? | income summary and withdrawals accounts are temporary accounts and should be closed at the end of the accounting period. 
+which statement is true? | revenue and expense accounts are temporary accounts and should be closed at the end of the accounting period. 
+which statement is true? | the cost of an inventory item includes its invoice cost minus any discount, and plus any added costs necessary to put it in a place and condition for sale. 
+which statement is true? | total asset cost minus accumulated depreciation equals book value. 
+wisconsin rentals purchased office supplies on credit. the general journal entry made by wisconsin rentals will include a: | credit to accounts payable.
+withdrawal account, revenues account, expenses account and income summary account are | temporary accounts
+zed bennett opened an art gallery and as a dealer completed these transactions: 1. started the gallery, artery, by investing $40,000 cash and equipment valued at $18,000. what was the balance of the cash account after these transactions were posted? | $43,300.
+the operating functions of a business include: | all of these.
+the rule that  financial statements will be prepare with the  assumption that the business will continue operating instead of being closed or sold, is the: | on - going-concern principle.
+the accounting principle that requires accounting information to be based on actual cost and, is the: | cost principle.
+an example of a financing activity is: | obtaining a short term loan.
+an example of an investing activity is: | purchase of land.
+net income is: | the excess of revenues over expenses.
+the difference between a company's assets and its liabilities is: | equity.
+which item in owner equity that represents costs used to earn revenues : | expenses.
+expenses are: | the costs of assets or services used to generate revenue.
+revenues are: | company's earning activities that contribute to increase owner equity .
+accounting  refers to: | all of these
+if assets are $99,000 and liabilities are $32,000, then equity equals | $67,000.
+a cash outflow from the company into its owner is called a(n): | withdrawal.
+how does lead company record  by the billing of a client for $15,000 of service completed? | +$15,000 accounts receivable, +$15,000 revenue.
+moffic  company has assets of $600,000, liabilities of $250,000, and equity of $350,000. it buys raw material on credit for $25,000. what would be the effects of this transaction on the accounting equation? | assets increase by $25,000 and liabilities increase by $25,000.
+reebok had income of $150 million, sale of $ 1,000 million  and average invested assets of $1,800 million. its return on assets is: | 8.3%.
+nike had income of $350 million, sale of $ 1,000 million  and average invested assets of $2,000 million. its roa is: | 17.5%.
+liability created by purchasing goods and services on credit are: | accounts payable.
+accounts receivable refers: | money which is owed to a company by a customer for products and services provided on credit
+an account used to record the owner's investments in the business is called a(n): | contributed capital account
+the proper journal entry to record ransom company's billing of clients for $500 of services rendered is: | dr. accounts receivable 500 cr. service revenue     500
+which accounts don't need to do closing entries? | non - current liability
+a company that uses a perpetual inventory system made the following cash purchases and sales:jan, 1: purchased 100 units at $10 per unit.feb, 5: purchased 60 units at $12 per unit.march, 16: sold 40 units for $ 16 per unit.prepare general journal entries to record the march 16 sale assuming a cash sale and thefifo method is used. | march 16 dr cash 640 cr sale revenue 640 dr cogs 400 cr inventories 400
+if assets are $199,000 and liabilities are $132,000, then equity equals | $67,000.
+which accounts don't need to do closing entries? | non - current asset
+a company must record its expenses incurred to generate the revenue reported. | matching principle
+realistic company purchased a new truck on january 1, 20x1. the truck cost $20,000, has a four-year life, and a $4,000 residual value. the company has a december 31 year end. if realistic company depreciates the truck by the straight-line method, how much should realistic report as the book value of the truck at the end of 20x3? | $8,000
+which is true about revenues: | company's earning activities that contribute to increase owner's equity .
+on june 30, 2009, apricot co. paid $7,500 cash for a service that will be performed during two-year period. on june 30, 2009 apricot should record: | a debit to a prepaid expense for $7,500 and credit cash $ 7,500
+which statement is true? | income summary and withdrawals accounts are temporary accounts and should be closed at the end of the accounting period.
+provide descriptions for this transaction: increase cash $1,000 and increase equity $,1000 | investment of cash in business by owner or performed services for cash
+at the beginning of january of the current year, a law company has a normal balance of $50,000 for accounts receivable. during january, the company collected $14,000 from customers and provided additional services to customers on account totaling $12,000.additional, company used service of $ 1,000 on credit. at the end of january, the balance in the accounts receivable account should be: | $48,000.
+which accounts don't need to do closing entries? | gross profit
+depreciation is: | the assigning or allocating of a fixed asset's cost to expense over the accounting periods that the asset is likely to be used.
+provide descriptions for this transaction:debit inventory $8,000 and credit liability $,8000 | buying inventory on credit $8,000
+tangible assets include: | all of these.
+a company had inventory of 5 units at a cost of $20 each on november 1. on november 2, it purchased 10 units at $22 each. on november 6 it purchased 6 units at $25 each. on november 8, it sold 18 units for $54 each. using the lifo perpetual inventory method, what was the cost of the 18 units sold? | $410.
+a company purchased new computers at a cost of $14,000 on september 30, 2010. the computers are estimated to have a useful life of 4 years and a salvage value of $2,000. the company uses the straight-line method of depreciation. how much depreciation expense will be recorded for the computers for the year ended december 31, 2010? | $750
+the summary amounts below appear in the income statement and balance sheet columns of a company's december 31 work sheet. prepare the necessary closing entries into income summaryasset : $10,000revenue: $ 15,000unearned revenue: $1,000 | debit revenue: $15,000 credit income summary: $15,000
+the operating functions of a business exclude: | borrowing.
+zed bennett opened an art gallery and as a dealer completed these transactions:1. started the gallery, artery, by investing $40,000 cash and equipment valued at $18,000.2. purchased $70 of office supplies on credit.3. paid $1,200 cash for the receptionist's salary.4. sold a painting for an artist and collected a $4,500 cash commission on the sale.5. completed an art appraisal and billed the client $200.what was the balance of the cash account after these transactions were posted? | $43,300.
+john, the owner of matt company, withdrew $8,000 from the business during the current year. the entry to close the withdrawals account at the end of the year, is: | debit capital $8,000 and credit withdrawal $ 8,000
+provide descriptions for this transaction: | received cash for an account receivable.
+the business completed these transactions:1. investing $20,000 cash and a building valued at $100,000.2. purchased $10,000 of a truck on credit.3. paid $20,000 cash for raw material.4. selling products and collected$40,000 cash.what was the balance of the cash account after these transactions were posted? | $40,000
+a business is accounted for separately from other business entities, including its owner. | business entity assumption
+acme-jones company uses a weighted-average perpetual inventory system.august 2, 8 units were purchased at $12 per unit.august 18, 15 units were purchased at $14 per unit.august 29, 20 units were sold.august 31, 10 units were purchased at $16 per unit.what is the per-unit value of ending inventory on august 31? | $15.38.
+the proper journal entry to record ransom company's billing of clients for $500 of services rendered is: | dr. accounts receivable 500  cr. service revenue 500
+the accounting assumption that requires every business to be accounted for separately from  other business entities, including its owner or owners is known as the: | business entity assumption.
+a company has sales of $350,000, account receivable of 50,000 and estimates that 0.7% of its sales are uncollectible. the estimated amount of bad debts expense is | $2,450.
+an adjusting entry could be made for each of the following except: | owner withdrawals.
+a company purchased a plant asset for $45,000. the asset has an estimated salvage value of $6,000, and an estimated useful life of 10 years. the annual depreciation expense using the straight-line method is | $3,900 per year.
+a company has inventory of 10 units at a cost of $10 each on june 1. on june 3, it purchased 20 units at $12 each. 12 units are sold on june 5. using the fifo perpetual inventory method, what is the cost of the 12 units that were sold? | $124.
+an adjusting entry could be made for each of the following except: | owner capital
+j. awn, the proprietor of awn services, withdrew $8,700 from the business during the current year. the entry to close the withdrawals account at the end of the year, is: | debit capital $8,700 and credit withdrawal $ 8,700
+which accounts don't need to do closing entries? | current asset
+if the liabilities of a business increased $75,000 during a period of time and the owner's equity in the business decreased $30,000 during the same period, the assets of then business must have: | increased $45,000.
+the amount due on the maturity date of a $12,000, 60-day 8%, note receivable is: | $12,000.
+a company had no office supplies available at the beginning of the year. during the year, the company purchased $250 of office supplies. on december 31, $75 of office supplies remained. how much should the company report as office supplies expense for the year? | $175.
+provide descriptions for this transaction: debit insurance expense $8,000 and credit insurance - prepaid expense $,8000 | adjusting prepaid expense at the end of period $8,000
+an adjusting entry could be made for each of the following except: | revenue.
+merchandise inventory includes: | all goods owned by a company and held for sale.
+a company had no office supplies available at the beginning of the year. during the year, the company purchased $250 worth of office supplies. on december 31, $75 worth of office supplies remained. how much should the company report as office supplies expense for the year? | $175.
+selling products for cash $300 and $700 on credit. show the general journal entry to record this transaction. | debit cash $ 300 debit account receivable $700 credit revenue $1,000
+the summary amounts below appear in the income statement and balance sheet columns of a company's december 31 work sheet. prepare the necessary closing entries into income summary asset : $15,000 liability: $14,000 expense: $ 8,000 withdrawal: $1,000 | credit expense: $8,000 debit income summary: $8,000
+if smith, the owner of a restaurant, uses cash of the business to pay for renting his house, the business should record this use of cash with an entry to: | debit withdrawals and credit cash.
+provide descriptions for this transaction:debit unearned revenue $8,000 and credit revenue $8,000 | adjusting unearned revenue at the end of period $8,000
+which statement is true? | expenses decrease owner's equity
+provide descriptions for this transaction:debit office supplies $2,000 and credit liability $,2000 | buying office supplies on credit $2,000
+a company that uses a perpetual inventory system made the following cash purchases and sales: jan, 1: purchased 100 units at $10 per unit. feb, 5: purchased 60 units at $12 per unit. march, 16: sold 40 units for $ 16 per unit. prepare the general journal entry to record the march 16 sale assuming a cash sale and the lifo method is used: | dr cash 640 cr sale revenue 640 dr cogs 480 cr inventories 480
+a company had inventory on november 1 of 5 units at a cost of $20 each. on november 2, they purchased 10 units at $22 each. on november 6 they purchased 6 units at $25 each. on november 8, 8 units were sold for $55 each. using the lifo perpetual inventory method, what was the value of the inventory on november 8 after the sale? | $276
+which accounts don't need to do closing entries? | intangible asset
+external users of accounting information exclude: | manager.
+adjusting depreciation expense of fixed asset at $8,000. recording this transaction: | debit depreciation expense $8,000 and credit accumulated depreciation expense $,8000
+provide descriptions for this transaction: debit inventory $8,000 and credit cash $,8000 | buying inventory by cash $8,000
+newton company uses the allowance method of accounting for uncollectible accounts.on may 3, the newton company wrote off the $3,000 uncollectible account of its customer, p. best. the journal entry on may 3 is: | dr allowance for doubtful debts 3000 cr account receivable 3000
+provide descriptions for this transaction:debit expense $2,000 and credit supplies $2,000 | used supplies
+provide descriptions for this transaction:debit cash $8,000 and credit unearned revenue $,8000 | received payment in advance from customers by cash $8,000
+taylor company uses the direct write-off method of recording uncollectible accounts receivable. recently, a customer informed taylor that he would be unable to pay $300 owed to taylor. taylor's proper journal entry to reflect this event would be: | dr. uncollectible accounts expense 300 cr. accounts receivable 300
+which statement is true? | the cost of an inventory item includes its invoice cost minus any discount, and plus any added costs necessary to put it in a place and condition for sale.
+at the beginning of january of the current year, thomas law center's ledger reflected a normal balance of $52,000 for accounts receivable. during january, the company collected $14,800 from customers on account and provided additional services to customers on account totaling $12,500. additionally, during january one customer paid thomas $5,000 for services to be provided in the future. at the end of january, the balance in the accounts receivable account should be: | $49700
+an adjusting entry could be made for each of the following except: | account payable.
+which statement is true about tangible asset? | tangible assets are assets held for operating activity of the company
+provide descriptions for this transaction: debit cash $8,000 and credit unearned revenue $,8000 | received payment in advance from customers by cash $8,000
+flynn company uses an allowance method for recording uncollectible. at the due date of that account receivable, flynn determined that $4,000 due from mitchell will not be collected and should be write off. the entry flynn should record to write off the mitchell account is: | dr. allow. for uncollectible accounts 4,000 cr. accounts receivable 4,000
+which statement is true: | account payable is considered a liability on the balance sheet
+john set up a new business and completed these transactions:1. open new restaurant, by investing $30,000 cash and equipment valued at $10,000.2. purchased $1,000 of kitchen utility on credit.3. paid $1,500 cash for the staff's salary.4. service meals to customers and collected$4,000 cashwhat was the balance of the cash account after these transactions were posted? | $32,500
+a company had inventory of 15 units at a cost of $20 each on november 1. on november 2, it purchased 10 units at $22 each. on november 6 it purchased 12 units at $25 each. on november 8, it sold 22 units for $54 each. using the fifo perpetual inventory method, what was the cost of the 22 units sold? | $454.
+provide descriptions for this transaction:debit office supplies $8,000 and credit liability $,8000 | buying office supplies on credit $8,000
+reflects assumption that the business will continue operating instead of being closed or sold.it is about: | going-concern assumption
+the rule that financial statements will be prepared with the assumption that the business will continue operating instead of being closed or sold, is the: | on - going-concern principle.
+given the following information, determine the cost of the inventory at june 30 using the lifo perpetual inventory method. june, 1: beginning inventory 15 units at $20 each june, 15: sale of 6 units at $50 june, 29: purchased of 8 units at $25 the cost of goods sold is : | $120.
+which statement is true? | revenue and expense accounts are temporary accounts and should be closed at the end of the accounting period.
+qn=180 | ending inventory is equal to merchandise available for sale minus cost of goods sold.
+which are expected to be sold collected or used within one year or the company's operating cycle? | current assets
+which statement is true: | unearned revenue is considered a liability on the balance sheet
+under the accrual basis of accounting, expenses are reported in the accounting period when the | expense incurred
+which statement is true? | total asset cost minus accumulated depreciation equals book value.
+which of the following is not considered as subcategory of owner's equity? | assets
+which statement is true? | current liabilities include accounts payable, unearned revenues, and salaries payable.
+which of the following statements is true? | a debit increases an asset while a credit decrease an asset
+an adjusting entry could be made for each of the following except: | cash.
+acme-jones corporation uses a weighted-average perpetual inventory system.august 2, 10 units were purchased at $12 per unit.august 18, 15 units were purchased at $14 per unit.august 29, 12 units were sold.what was the amount of the cost of goods sold for this sale? | $158.40.
+nelson company purchased equipment on july 1 for $27,500 and decided to depreciate the equipment on the straight-line method over its useful life of five years. assuming the equipment's salvage value is $3,500, the amount of monthly depreciation expense nelson should recognize is: | $ 400
+items used in business operations, such as office pens and paper are several samples of: | office supplies
+at the beginning of 2009, a company's balance sheet reported the following balances:total assets = $125,000; total liabilities = $75,000; and owner's capital = $50,000. during 2009, the company reported revenues of $46,000 and expenses of $30,000. in addition, owner's withdrawals for the year totaled $20,000. assuming no other changes to owner's capital, the balance in the owner's capital account at the end of 2009 would be: | $46,000.
+which statement is true? | assets need to depreciate include vehicle, machine, buildings
+on june 1, paid $200 cash for office supplies. prepare journal entries to record the above transactions on june 1. | debit office supplies expense $200 credit cash $ 200
+an adjusting entry could be made for each of the following except: | cost of goods sold.
+which statement is about mary's capital: | the owner's equity account that contains the amount invested in the sole proprietorship by mary smith plus the net income since the company began minus the draws made by mary smith since the company began.
+hefty company wants to know the effect of different inventory methods on financial statements. given below is information about beginning inventory and purchases for the current year.  january 2 beginning inventory: 500 units at $3.00 april 7 purchased : 1,100 units at $3.20 june 30 purchased : 400 units at $4.00 december 7 purchased : 1,600 units at $4.40 sales during the year were 2,700 units at $5.00. if hefty used the periodic lifo method, cost of goods sold would be: | $10,880
+which accounts don't need to do closing entries? | current liability
+cooley company has the balance in the accounts payable at the beginning of march was $1,000. during the month of march, cooley company purchased from dell company on account totaling $2,000. also during this month, cooley company paid $500 on its accounts payable for dell company. in addition, cooley company was paid $8,000 by a customer for services to be provided in the future. what is the balance in accounts payable at the end of march? | $2,500.
+which of the following is not a category or element of the balance sheet? | expense
+a company had the following purchases during the current year:jan: 10 units at $ 120feb: 20 units at $130may: 15 units at $140sep: 12 units at $150nov: 10 units at $160on december 31, there were 26 units remaining in ending inventory. these 26 units consisted of 2 from january, 4 from february, 6 from may, 4 from september, and 10 from november. using the specific identification method, what is the cost of the ending inventory? | $3,800.
+the right side of a t-account is a(n): | credit.
+branz company had credit sales during the current year which amounted to $700,000.historically, 3% of credit sales are uncollectible. if branz uses the allowance method of recording uncollectible accounts, a proper journal entry for the year would be: | dr. uncollectible accounts expense 21,000 cr. allow. for uncollectible accounts 21,000
+provide descriptions for this transaction:debit unearned revenue $8,000 and credit revenue $,8000 | adjusting unearned revenue at the end of period $8,000
+a company that uses a perpetual inventory system made the following cash purchases and sales:jan, 1: purchased 100 units at $10 per unit.feb, 5: purchased 60 units at $12 per unit.march, 16: sold 40 units for $ 16 per unit.prepare the general journal entry to record the march 16 sale assuming a cash sale and the weighted average method is used. | dr cash 640 cr sale revenue 640 dr cogs 430 cr inventories 430
+office supplies available at the beginning of the year are 0. during the year, the company purchased $3000 of office supplies. on december 31, $1000 of office supplies remained. additional company's insurance expense is $ 1000. how much should the company report as office supplies expense for the year? | $2000
+which are expected to be sold, collected or used within one year or the company's operating cycle? | current assets
+which accounts belong to permanent accounts? | asset, liability, owner capital

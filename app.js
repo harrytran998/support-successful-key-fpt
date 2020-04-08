@@ -11,7 +11,7 @@ const trimLine = (line) => {
   if (line === '') return
   if (line.includes(regex)) {
     let lineTrim = line.split(regex)
-    lineTrim[0] = lineTrim[0].trimRight()
+    lineTrim[0] = lineTrim[0].trimRight().toLowerCase()
     lineTrim[1] = lineTrim[1].trimLeft().toLowerCase()
     return lineTrim.join(regex)
   }
