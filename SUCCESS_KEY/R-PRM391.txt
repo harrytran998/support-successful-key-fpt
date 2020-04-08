@@ -456,7 +456,7 @@ in android, which layout mode defines the positions of each component relative t
 choose whether the statement is true or false | true
 read the following content and answer the question | smsmanager&lt
 does asynctask create new thread in background? | true
- statement a: android.telephony.smsmanager class can send sms on both gsm and cdma network | statement a is true, and statement b is false
+statement a: android.telephony.smsmanager class can send sms on both gsm and cdma network | statement a is true, and statement b is false
 when using android.app.alertdialog.builder class to display a | show()
 in auto-generated code of an android app, what is r class | it is the main controller of the app
 in android, which manifest permission is needed when use gps location | access_fine_location
@@ -727,7 +727,7 @@ in android, which statement is not correct about asynctask | none of
 in android, which layout mode defines the positions of each component relative to each other | relativelayout 
 choose whether the statement is true or false | true 
 read the following content and answer the question | smsmanager&lt 
- statement a: android.telephony.smsmanager class can send sms on both gsm and cdma network | statement a is true, and statement b is false 
+statement a: android.telephony.smsmanager class can send sms on both gsm and cdma network | statement a is true, and statement b is false 
 when using android.app.alertdialog.builder class to display a | show() 
 how can you define the minimum version of android required | using the minsdkversion attribute in the androidman 
 which of the following is appropriate for saving the state of an android application | activity.onpause() 
@@ -940,7 +940,6 @@ how to set position of a sencha touch component | all of above
 in class sqliteopenhelper class, there are 2 method we usually override. what are they | oncreate() and onupdagrade()
 android: which statement is not correct about toasts | toasts are perfect for informing your users of event without forcing them
 does asynctask create new thread in background | true
-statement a: android.telephony.smsmanager class can send sms on both gsm and cdma network | statement a is true, and statement b is false 
 to display a notification on upper left of android screen, which of the following class you need to use | notificationmanager + notification
 which is the method you need to use to post a notification to be shown in the status bar | notify(...)
 to develop your own service in android, which of the following step you need to do | step 2 is: implements onstartcommand, onbind, onunbind, onrebind, oncreate, ondestroy methods

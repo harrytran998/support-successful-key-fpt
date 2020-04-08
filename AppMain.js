@@ -8,14 +8,23 @@ const { createInterface } = require('readline')
  */
 const trimLine = (line) => {
   const regex = ' | '
-  // Nếu dòng ấy null => Chỉ lấy 1 dòng duy nhất trong cả file
-  if (line === '') return
+
   // Chỉ khi nào thoả mãn thì mới xử lý, không thì next
   if (line.includes(regex)) {
     let lineTrim = line.split(regex)
+    // Nếu dòng ấy null => Chỉ lấy 1 dòng duy nhất trong cả file
+    if (!lineTrim[1] || lineTrim[1].trim() === '') return
+    if (lineTrim[0]) {
+      lineTrim[0] = lineTrim[0].startsWith('#') ? lineTrim[0].replace('#', '') : lineTrim[0]
+      lineTrim[0] = lineTrim[0].trim()
+    }
+    if (lineTrim[1]) {
+      lineTrim[1] = lineTrim[1].trimLeft().toLowerCase()
+      lineTrim[1] === 'f' ? (lineTrim[1] = 'False') : lineTrim[1] === 't' ? (lineTrim[1] = 'True') : lineTrim[1]
+    }
     // Cho lower case xuống để loại bớt trùng lặp
-    lineTrim[0] = lineTrim[0].trimRight().toLowerCase()
-    lineTrim[1] = lineTrim[1].trimLeft().toLowerCase()
+    lineTrim[0] = lineTrim[0].toLowerCase()
+    lineTrim[1] = lineTrim[1].toLowerCase()
     return lineTrim.join(regex)
   }
 }
