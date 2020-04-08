@@ -2,7 +2,8 @@ Which of these characters can be included within the text in an XML document in 
 a. >
 b. ;
 c. :
-d. - !=== bcd
+d. -
+e. & !=== bcde
 
 XML parser checks for validity and well formed ness? !=== t
 

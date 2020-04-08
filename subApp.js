@@ -11,7 +11,10 @@ const trimLine = (txtFile) => {
   let result = []
   const regex = '!==='
   for (let item of arryTrim) {
-    const [term, defination] = item.split(regex)
+    let [term, defination] = item.split(regex)
+    defination = defination.toUpperCase().trimLeft()
+    if (defination === 'T') defination = 'TRUE'
+    if (defination === 'F') defination = 'FALSE'
     result.push(`${defination} ${regex} ${term} \n\n`)
   }
   return result

@@ -2523,7 +2523,8 @@ Which of these characters can be included within the text in an XML document in 
 a. >
 b. ;
 c. :
-d. - ===> Aswer:  bcd
+d. -
+e. & ===> Aswer:  bcde
 
 Which of these characters cannot be used as entity references in XML?
 a. <
