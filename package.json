@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "umbala": "node app.js"
+    "umbala": "node AppMain.js",
+    "quizlet": "node AppQuizlet.js"
   },
   "dependencies": {
     "fs": "^0.0.2"
