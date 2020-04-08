@@ -65,8 +65,7 @@ const transformArrayToTxt = (arrData) => arrData.join('\r\n')
  */
 const removeDuplicateAndWrite = async (fileName) => {
   const dataFile = await processLineByLine(fileName)
-  const resultFileName = `R-${fileName}`
-  writeFileSync(__dirname + '/SUCCESS_KEY/' + resultFileName, transformArrayToTxt(dataFile), {
+  writeFileSync(__dirname + '/SUCCESS_KEY/' + fileName, transformArrayToTxt(dataFile), {
     flag: 'w+',
     encoding: 'utf-8',
   })
