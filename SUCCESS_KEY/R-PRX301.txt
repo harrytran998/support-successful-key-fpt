@@ -621,7 +621,7 @@ which of the following statement about sax is false? | sax focuses on real conte
 a complex type element can be defined using | <xsd:complextype name=”…” />
 which of these is the correct syntax to link a css file to an xml document? | <?xml-stylesheet type="text/css" href="url"?>
 to prevent a type from being derived for defining new types you can specify | <complextype name=”address” final=”restriction” />
-the property 'nextsibling' in domdocument object contains the next node of the previous nodes in the parent's child list. | t
+the property 'nextsibling' in domdocument object contains the next node of the previous nodes in the parent's child list. | true
 what is not true about stax? | it is a "push" parser
 which of the following statement about attribute node in dom is true? | this node represents the property of an element
 which of the following statements related to the tranformerfactoty class and its methods are false? | the getfeature(string name) method permits the user to set values for specific attributes
@@ -1440,7 +1440,6 @@ manipulating the xml document through dom does not require any objects of the do
 the root nodes can make multiple appearances in the document. | true
 the 'appendchild()' method of the domdocument object adds: | a new node
 the 'readystate' property in the domdocument object defines several states that specify the current status of the asynchronous download. | true
-the property 'nextsibling' in domdocument object contains the next node of the previous nodes in the parent's child list. | true
 the 'xml' property always returns a unicode string. | true
 'xmldomnodelist' property is: | read only
 the 'nextnode' method in the xmldomnodelis object returns a null value if there is no next node. | true

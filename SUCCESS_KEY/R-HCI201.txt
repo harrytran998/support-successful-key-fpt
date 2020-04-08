@@ -1928,7 +1928,7 @@ what is the designe's model? | the model the designer has of how the system shou
 what are the design implications of 'memory'? (choose 2) | do not overload users' memories with complicated procedures for carrying out tasks ,design interfaces that promote recall rather than recognition
 what are the design implications of 'memory'? (choose 2) | do not overload users' memories with complicated procedures for carrying out tasks
 what are the design implications of 'memory'? (choose 2) | design interfaces that promote recall rather than recognition
- what are not cognitive frameworks in interaction design? (choose 2) | image processing internal cognition
+what are not cognitive frameworks in interaction design? (choose 2) | image processing internal cognition
 according to norman's theory of action, there are 7 stages of an activity. what is not one of them? | none of the others
 computational offloading occurs when we use a tool or device in conjunction with an internal representation to help us carry out a computation. | false
 essential use cases were developed to combat the limitations of both scenarios and use cases. | true
