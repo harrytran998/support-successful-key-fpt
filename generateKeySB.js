@@ -1,4 +1,4 @@
-const { readFileSync, writeFile, writeFileSync } = require('fs')
+const { readFileSync, writeFileSync } = require('fs')
 const { resolve } = require('path')
 
 let uniqueResult = new Set()
@@ -25,7 +25,6 @@ const transformArrayToTxt = (arrData) => arrData.join('\r\n')
 
 for (let i = 0; i < dataLength; i++) {
   const lines = arrData[i].split('\n')
-  const question = lines[0]
   const result = findResult(lines)
   if (!uniqueResult.has(result)) {
     uniqueResult.add(result)
